@@ -1,2 +1,2 @@
 # git_tutorial
-DataBricks_notebook for TechLake
+Git Tutorial for DV project
