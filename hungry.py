@@ -3,5 +3,9 @@ if hu=="yes":
     print("Eat Samosa")
     print("Eat Fries")
 else:
-    print("Do your work")
+    thirsty=input('Are you thirsty?')
+    if thirsty=='yes':
+        print('Drink water')
+    else:
+        print('Do homework')
 
