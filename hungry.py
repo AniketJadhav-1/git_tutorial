@@ -16,4 +16,5 @@ else:
             print('Go to sleep')
         else:
             print('Do homework')
+            print('After doing homework go to sleep')
 
